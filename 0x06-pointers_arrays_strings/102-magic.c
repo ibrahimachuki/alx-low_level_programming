@@ -1,12 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: add_line - add line to print
- * 98 with a new  line
- *
- * Return: always 0 (success)
+ * main- starts execution
+ * Return: Always zero (success)
  */
 int main(void)
 {
