@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - prints a[2]
+ *
+ * Return: no return.
+ */
 int main(void)
 {
 	int n;
